@@ -1,0 +1,7 @@
+C:\Projekti\Erida\ATA\ATA\obj\Debug\ATA.csproj.AssemblyReference.cache
+C:\Projekti\Erida\ATA\ATA\obj\Debug\ATA.csproj.CoreCompileInputs.cache
+C:\Projekti\Erida\ATA\ATA\bin\Debug\ATA.exe.config
+C:\Projekti\Erida\ATA\ATA\bin\Debug\ATA.exe
+C:\Projekti\Erida\ATA\ATA\bin\Debug\ATA.pdb
+C:\Projekti\Erida\ATA\ATA\obj\Debug\ATA.exe
+C:\Projekti\Erida\ATA\ATA\obj\Debug\ATA.pdb
